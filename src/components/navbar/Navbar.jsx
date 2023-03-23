@@ -1,7 +1,7 @@
 import React from "react";
 import "./navbar.css";
 
-const Article = () => {
+const Navbar = () => {
   return <div>Navbar</div>;
 };
 

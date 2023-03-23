@@ -1,7 +1,7 @@
 import React from "react";
 import "./brand.css";
 
-const Article = () => {
+const Brand = () => {
   return <div>Brand</div>;
 };
 
