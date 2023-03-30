@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 import {
   Footer,
   Blog,
@@ -8,6 +9,7 @@ import {
   WhatGPT3,
 } from "./containers";
 import { Cta, Navbar, Brand } from "./components";
+import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
